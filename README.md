@@ -1,9 +1,8 @@
-# Structural Equation Modeling Experiments
+# Structural Equation Modeling
 
 
-This repor contains the code used on my studies of "Structural Equation Modeling"
+This repor contains the code used on the paper "Structural Equation Modeling"
 
 Web: http://helderc.xyz
 
-Contact: helder.ro@outlook.com
-
+Contact: heldercro@gmail.com
